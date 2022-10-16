@@ -1,3 +1,3 @@
 # h2-db-springboot
-add google authentication
-add custom method "findByName" from CrudRepository 
+Add google authentication.
+Add custom method "findByName" from CrudRepository.
