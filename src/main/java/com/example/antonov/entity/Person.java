@@ -22,9 +22,6 @@ public class Person {
     @Column(name="name")
     private String name;
 
-    public Person(String name) {
-        this.name = name;
-    }
 
     public static Person of(String name) {
         return Person.builder()
